@@ -1,5 +1,5 @@
 # Python_groupwork
-#group member:
+group member:
 Wan Mo 
 Linghao Zhou
 Yijia Zhao 
